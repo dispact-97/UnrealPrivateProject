@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\yunjaetest\\unrealprivateproject\\testingproject\\intermediate\\build\\win64\\unrealeditor\\inc\\testingproject\\uht\\testingproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\yunjaetest\\unrealprivateproject\\testingproject\\intermediate\\build\\win64\\x64\\testingprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\yunjaetest\\unrealprivateproject\\testingproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testingproject\\definitions.testingproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\YunjaeTest\\UnrealPrivateProject\\TestingProject\\Source\\TestingProject\\TestingProject.Build.cs",
+		"D:\\YunjaeTest\\UnrealPrivateProject\\TestingProject\\Source\\TestingProject.Target.cs",
+		"D:\\YunjaeTest\\UnrealPrivateProject\\TestingProject\\Source\\TestingProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}

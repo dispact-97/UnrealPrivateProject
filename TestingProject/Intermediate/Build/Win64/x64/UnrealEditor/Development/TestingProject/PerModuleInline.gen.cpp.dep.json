@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\yunjaetest\\unrealprivateproject\\testingproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testingproject\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\yunjaetest\\unrealprivateproject\\testingproject\\intermediate\\build\\win64\\x64\\testingprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\yunjaetest\\unrealprivateproject\\testingproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testingproject\\definitions.testingproject.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
